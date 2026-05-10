@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">notification</string>
+    <string name="facebook_app_id">1480698783538441</string>
+    <string name="facebook_client_token">1243f91a58025bd21ed0dafce80000c8</string>
+    <string name="fb_login_protocol_scheme">fb1480698783538441</string>
+</resources>
